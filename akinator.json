@@ -1,0 +1,63 @@
+{
+  "pregunta": "¿Es una persona real?",
+  "si": {
+    "pregunta": "hace videos en youtube?",
+    "si": {
+      "respuesta": "german garmendia"
+    },
+    "no": {
+      "pregunta": "es ceo de tesla?",
+      "si": {
+        "respuesta": "elon musk"
+      },
+      "no": {
+        "pregunta": "es actor?",
+        "si": {
+          "pregunta": "es cantante?",
+          "si": {
+            "pregunta": "es mexicana/",
+            "si": {
+              "respuesta": "Alejandra guzman"
+            },
+            "no": {
+              "respuesta": "harry styles"
+            }
+          },
+          "no": {
+            "pregunta": "interpreta al nuevo spiderman?",
+            "si": {
+              "respuesta": "Tom Holland"
+            },
+            "no": {
+              "respuesta": "sylvester stallone"
+            }
+          }
+        },
+        "no": {
+          "respuesta": "Albert Einstein"
+        }
+      }
+    }
+  },
+  "no": {
+    "pregunta": "es naranja?",
+    "si": {
+      "respuesta": "chester chetos"
+    },
+    "no": {
+      "pregunta": "es una mascota?",
+      "si": {
+        "respuesta": "timon"
+      },
+      "no": {
+        "pregunta": "es de una caricatura?",
+        "si": {
+          "respuesta": "el rayo mcqueen"
+        },
+        "no": {
+          "respuesta": "Harry Potter"
+        }
+      }
+    }
+  }
+}
